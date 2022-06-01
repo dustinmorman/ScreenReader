@@ -42,7 +42,7 @@ namespace ScreenReader
             this.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
-            this.Opacity = 0.1D;
+            this.Opacity = 0.3D;
             this.Text = "Form1";
             this.TransparencyKey = System.Drawing.Color.White;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
