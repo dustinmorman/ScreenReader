@@ -1,0 +1,16 @@
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\x86\tesseract41.dll
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\x64\tesseract41.dll
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\ScreenReader.exe.config
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\ScreenReader.exe
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\ScreenReader.pdb
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\bin\Debug\Tesseract.dll
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.ControlPanel.resources
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.Form1.resources
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.Properties.Resources.resources
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.csproj.GenerateResource.cache
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.csproj.CoreCompileInputs.cache
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.csproj.CopyComplete
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.exe
+C:\Users\Dustin\Documents\VisualStudioProjects\ScreenReader\ScreenReader\obj\Debug\ScreenReader.pdb
