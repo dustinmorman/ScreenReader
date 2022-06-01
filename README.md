@@ -9,3 +9,5 @@ to you in games that lack accessibility options.
 
 To use run the program and press F1 or click the Make Selection button. The screen will dim and you can then make your selection similar to how the windows
 snip tool works. It will then read back the text to you.
+
+Built using Winforms
