@@ -37,6 +37,7 @@ namespace ScreenReader
             this.bttCaptureArea = new System.Windows.Forms.Button();
             this.InstructionsLabel = new System.Windows.Forms.Label();
             this.AudioButton = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.AudioButton)).BeginInit();
             this.SuspendLayout();
             // 
@@ -81,10 +82,20 @@ namespace ScreenReader
             this.AudioButton.TabStop = false;
             this.AudioButton.Click += new System.EventHandler(this.AudioButton_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(240, 9);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(32, 13);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "V 1.1";
+            // 
             // ControlPanel
             // 
             this.BackColor = System.Drawing.SystemColors.HighlightText;
             this.ClientSize = new System.Drawing.Size(284, 220);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.AudioButton);
             this.Controls.Add(this.InstructionsLabel);
             this.Controls.Add(this.bttCaptureArea);
@@ -107,6 +118,7 @@ namespace ScreenReader
         private System.Windows.Forms.Button bttCaptureArea;
         private System.Windows.Forms.Label InstructionsLabel;
         private System.Windows.Forms.PictureBox AudioButton;
+        private System.Windows.Forms.Label label1;
     }
 }
 
